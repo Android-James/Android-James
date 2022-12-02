@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Blanco. Currently taking my BS in Computer Science.
+- 👋 Hi, I’m James Blanco. Currently taking my bachelor's degree in Computer Science.
 - 👀 I’m interested in everything from front-end development to back-end. 
 - 🌱 I’m currently learning Java and planning to move on Javascript and Python.  
 - 💞️ I’m looking to collaborate on simple/beginner projects that can sharpen my skills.
