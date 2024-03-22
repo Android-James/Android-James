@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am James Blanco :)<br>👀 I am interested in Web Development and Mobile Development<br>🌱 I’m currently learning Nex.js, React Native, Flutter, and Python<br>💬 You can reach me at my email blancojames88@gmail.com<br>⚡ All of my projects are available at jamesblanco.vercel.app
+👋 Hi, I am James Blanco :)<br>👀 I am interested in Web Development and Mobile Development<br>🌱 I’m currently learning Nex.js, React Native, Flutter, and Python<br>💬 You can reach me at my email blancojames88@gmail.com<br>⚡ All of my projects are available at [https://jamesblanco.vercel.app/]
 
 
 ## 🌐 Socials:
