@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Flutter, and Python**
 
-- 👨‍💻 All of my projects are available at **jamesblanco.vercel.app**
+- 👨‍💻 All of my projects are available at [jamesblanco.vercel.app](https://jamesblanco.vercel.app/)
 
 - 📫 You can reach me at my email **blancojames88@gmail.com**
 
